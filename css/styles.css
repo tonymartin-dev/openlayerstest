@@ -1,0 +1,15 @@
+.map {
+  width: 900px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+#overlay2 {
+  background-color: green;
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.marker {
+  width: 25px;
+}
